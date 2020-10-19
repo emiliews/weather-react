@@ -14,7 +14,7 @@ export default function Weather(props){
 
     return (<Loader
          type="Rings"
-         color="green"
+         color="yellow"
          height={200}
          width={200}
          //timeout={30000} //3 secs
